@@ -9,7 +9,7 @@ root2.title("Menu")
 
 def enter1():
 	root2.destroy()
-	import restaurant_management_system
+	import management
 
 
 def enter2():
